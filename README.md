@@ -12,8 +12,7 @@ This project implements a **playing card identification system** using **MATLAB/
 ├── assets/             # Illustrations of the process
 ├── src/                # Functions and main program
 |   └── samples         # Test image samples
-├── flake.nix           # Nix environment
-└── Makefile            # Automated testing and cleanup
+└── flake.nix           # Nix environment
 ```
 
 ## ⚙️ How it works
@@ -34,7 +33,13 @@ This project implements a **playing card identification system** using **MATLAB/
 
 ### Install
 
+> [!warning]
+> Soon ...
+
 ### Run
+
+> [!warning]
+> Soon ...
 
 ## 📜 License
 
